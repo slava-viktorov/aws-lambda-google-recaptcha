@@ -1,0 +1,12 @@
+{
+  "name": "aws-lambda-google-recaptcha",
+  "version": "1.0.0",
+  "main": "handler.js",
+  "author": "S V <vsviktorov@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.249.1",
+    "form-data": "^2.3.2",
+    "node-fetch": "^2.1.2"
+  }
+}
